@@ -11,3 +11,10 @@
   <li><strong>User interface</strong>. Does the user interface feel modern and responsive?</li>
 </ul>
 <em>Hints: Encryption, Decryption, Date from the internet, License file exists? Require internet connection?</em>
+
+
+Frameworks needed to run it: Node, Angular, .NET 
+
+
+
+
