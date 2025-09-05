@@ -11,9 +11,11 @@
   <li><strong>User interface</strong>. Does the user interface feel modern and responsive?</li>
 </ul>
 <em>Hints: Encryption, Decryption, Date from the internet, License file exists? Require internet connection?</em>
+<br>
 
-
-Frameworks needed to run it: Node, Angular, .NET 
+Prerequisites: Node.js (https://nodejs.org/en/download), .NET 6.0 (https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+<br>
+After installing Node.js navigate to the ClientApp folder and run npm install in a terminal. 
 
 
 
